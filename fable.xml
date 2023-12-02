@@ -1,10 +1,10 @@
 <fable>
 	<page background="cenario.jpg">
         <agent img="tie.png" x="1" y="380" width="130" height="115"/>
-        <agent img="tie.png" x="20" y="0" width="180" height="145"/>
+        <agent img="tie.png" x="10" y="0" width="180" height="145"/>
         <agent img="tie.png" x="360" y="180" width="120" height="105"/>
         <agent img="tie.png" x="380" y="390" width="120" height="105"/>
-        <agent img="tie.png" x="160" y="250" width="180" height="165"/>
+        <agent img="tie.png" x="160" y="200" width="180" height="165"/>
   
     
   </page>
