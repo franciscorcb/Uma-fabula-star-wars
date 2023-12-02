@@ -26,8 +26,13 @@
         <agent img="tie.png" x="380" y="290" width="120" height="105"/>
     </page>
 
-    <page>
+    
+    <page background="cenario.jpg">
         <agent img="tie.png" x="1" y="340" width="130" height="115" on-touch="_GOTO_PAGE:3"/>
         <agent img="tie.png" x="380" y="290" width="120" height="105"/>
     </page>
+
+    
+    <page>
+    
 </fable>
