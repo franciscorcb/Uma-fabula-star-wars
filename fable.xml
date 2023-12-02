@@ -10,6 +10,6 @@
         <agent img="tie.png" x="360" y="180" width="120" height="105"/>
         <agent img="tie.png" x="380" y="390" width="120" height="105"/>
         <agent img="tie.png" x="150" y="230" width="200" height="165"/>
-        
+        <agent text="voltar" x="30" y="20"/>
     </page>
 </fable>
