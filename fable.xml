@@ -1,6 +1,6 @@
 <fable>
 	<page background="cenario.jpg">
-        <agent img="tie.png" x="1" y="337" width="150" height="135">
+        <agent img="tie.png" x="1" y="347" width="130" height="115">
   
     
   </page>
