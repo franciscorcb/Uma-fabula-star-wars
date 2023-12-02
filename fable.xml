@@ -1,8 +1,8 @@
 <fable>
     <page background="start.jpg">
-        <agent text="START" font-size="32" color="white" x="205" y="140" whidth="40" height="40"/>
-        <agent text="Uma fábula star wars" font-size="15" color="white" x="170" y="130" whidth ="40" height="4"/>
-        <agent text="Criado por Francisco"
+        <agent text="START" font-size="32" color="white" x="205" y="140" />
+        <agent text="Uma fábula star wars" font-size="15" color="white" x="170" y="130"/>
+        <agent text="Criado por Francisco" font-size="15" color="White" x="100" y="100"/>
     </page>
 
 
