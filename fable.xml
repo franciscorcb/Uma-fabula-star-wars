@@ -1,5 +1,5 @@
 <fable>
-	<page background="cenario1.jpg">
+	<page background="1.jpg">
         <agent img="tie.png" x="1" y="200" width="150" height="135">
   
     
