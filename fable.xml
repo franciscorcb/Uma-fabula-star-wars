@@ -15,7 +15,6 @@
     </page>
 
 
-
     
     <page background="cenario.jpg">
         <agent img="tie.png" x="26" y="120" width="180" height="145" on-touch="_GOTO_PAGE:4"/>
@@ -27,5 +26,7 @@
         <agent img="tie.png" x="380" y="290" width="120" height="105"/>
     </page>
 
-
+    <page>
+        <agent img=""
+    </page>
 </fable>
