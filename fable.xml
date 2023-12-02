@@ -33,7 +33,7 @@
     </page>
     
     <page background="cenario.jpg">
-        <agent img="tie.png" x="1" y="340" width="130" height="115" on-touch="_GOTO_PAGE:3"/>
+        <agent img="tie.png" x="1" y="340" width="130" height="115" on-touch="_GOTO_PAGE:7"/>
         <agent img="tie.png" x="26" y="120" width="180" height="145" on-touch="_GOTO_PAGE:7"/>
     </page>
     
