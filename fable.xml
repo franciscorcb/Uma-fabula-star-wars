@@ -1,6 +1,6 @@
 <fable>
     <page background="start.jpg">
-        <agent text="START" font-size="32" color="white" x="190" y="70" whidth="40" height="40"/>
+        <agent text="START" font-size="32" color="white" x="205" y="140" whidth="40" height="40"/>
     </page>
 
 
