@@ -10,6 +10,8 @@
         <agent img="tie.png" x="380" y="290" width="120" height="105"/>
         <agent text="voltar" font-size="16" color="white" x="15" y="470" on-touch="_PREV_PAGE"/>
     </page>
- 
-    <page/>
+    <page background="cenario.jpg">
+        <agent img="tie.png" x="26" y="120" width="180" height="145"/>
+        <agent img="tie.png" x="380" y="290" width="120" height="105"/>
+    </page>
 </fable>
