@@ -58,5 +58,7 @@
         <agent img="balao2.png" x="256" y="90" width="250" height="60"/>
         <agent text="Go" font-size="20" color="white" x="460" y="470" on-touch="_NEXT_PAGE"/>
     </page>
-    <page background="fim.jpg"/>
+    <page background="fim.jpg">
+        <agent text="Fim" font-size="20" color="white"x
+    </page>
 </fable>
