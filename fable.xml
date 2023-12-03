@@ -59,6 +59,6 @@
         <agent text="Go" font-size="20" color="white" x="460" y="470" on-touch="_NEXT_PAGE"/>
     </page>
     <page background="fim.jpg">
-        <agent text="Fim" font-size="20" color="white" x="200" y="350"/>
+        <agent text="Fim" font-size="20" color="white" x="230" y="410"/>
     </page>
 </fable>
