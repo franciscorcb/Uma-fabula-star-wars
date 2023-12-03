@@ -18,8 +18,8 @@
         <agent img="tie.png" x="26" y="120" width="180" height="145" on-touch="_GOTO_PAGE:6"/>
         <agent img="tie.png" x="380" y="290" width="120" height="105" on-touch="_GOTO_PAGE:7"/>
         <agent text="voltar" font-size="16" color="white" x="15" y="470" on-touch="_PREV_PAGE"/>
-        <agent img="balao.png" x="69" y="35" width="400" height="50"/>
-        <agent text="Elimine as Tie Fighters" font-size="18" color="black" x="170" y="110" whidth="40" height="4"/>
+        <agent img="balao.png" x="69" y="35" width="00" height="50"/>
+        <agent text="Elimine as Tie Fighters" font-size="18" color="black" x="170" y="70" whidth="20" height="4"/>
         
     </page>
 
