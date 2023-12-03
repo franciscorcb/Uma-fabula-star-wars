@@ -7,7 +7,8 @@
     <page background="fundo.png">
         <agent img="cenario2.png"  x="300" y="80" width="170" height="145"/>
         <agent text="go" font-size="20" color="white" x="440" y="440" on-touch="_NEXT_PAGE"/>
-        <agent text="Olá, essa é uma pequena fabula de star wars criada por mim, Francisco" font-size="70" color
+        <agent text="Olá, essa é uma pequena fabula 
+            de star wars criada por mim,Francisco" font-size="10" color="White" x="200" y="440"/>
     </page>
     
     <page background="cenario.jpg">
