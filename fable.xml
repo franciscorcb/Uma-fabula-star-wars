@@ -62,7 +62,7 @@
     <page background="cenario3.png">
         <agent img="darth vader 1.png" x="10" y="15" width="382" height="260"/>
         <agent text="Go"  font-size="20" color="white" x="460" y="470" on-touch="_NEXT_PAGE"/>
-        <agent img="balao2.png" x="230" y="90" width="260" height="70"/>
+        <agent img="balao2.png" x="255" y="90" width="250" height="60"/>
     </page>
     <page background="cenario3.png">
         <agent img="darth vader 2.png" x="10" y="15" width="382" height="260"/>
