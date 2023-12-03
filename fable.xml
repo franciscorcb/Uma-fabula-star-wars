@@ -4,6 +4,7 @@
         <agent text="Uma fábula star wars" font-size="15" color="white" x="170" y="110" whidth="40" height="4"/>
         <agent text="Criado por Francisco" font-size="14" color="White" x="178" y="40"/>
     </page>
+    
     <page background="fundo.png">
         <agent img="cenario2.png" x="300" y="80" width="170" height="145"/>
         <agent text="go" font-size="20" color="white" x="440" y="440" on-touch="_NEXT_PAGE"/>
@@ -11,6 +12,7 @@
         <agent text="Espero que goste ^^" font-size="17" color="White" x="30" y="200"/>
         <agent text="Força padawan!" font-size="17" color="White" x="30" y="160"/>
     </page>
+    
     <page background="cenario.jpg">
         <agent img="tie.png" x="1" y="340" width="130" height="115" on-touch="_GOTO_PAGE:4"/>
         <agent img="tie.png" x="26" y="120" width="180" height="145" on-touch="_GOTO_PAGE:6"/>
@@ -19,30 +21,38 @@
         <agent img="balao.png" x="190" y="35" width="280" height="50"/>
         <agent text="Elimine os Tie Fighters" font-size="18" color="black" x="220" y="65" whidth="20" height="4"/>
     </page>
+    
     <page background="cenario.jpg">
         <agent img="tie.png" x="26" y="120" width="180" height="145" on-touch="_GOTO_PAGE:5"/>
         <agent img="tie.png" x="380" y="290" width="120" height="105" on-touch="_GOTO_PAGE:8"/>
     </page>
+    
     <page background="cenario.jpg">
         <agent img="tie.png" x="380" y="290" width="120" height="105" on-touch="_GOTO_PAGE:10"/>
     </page>
+    
     <page background="cenario.jpg">
         <agent img="tie.png" x="1" y="340" width="130" height="115" on-touch="_GOTO_PAGE:5"/>
         <agent img="tie.png" x="380" y="290" width="120" height="105" on-touch="_GOTO_PAGE:9"/>
     </page>
+    
     <page background="cenario.jpg">
         <agent img="tie.png" x="1" y="340" width="130" height="115" on-touch="_GOTO_PAGE:8"/>
         <agent img="tie.png" x="26" y="120" width="180" height="145" on-touch="_GOTO_PAGE:9"/>
     </page>
+    
     <page background="cenario.jpg">
         <agent img="tie.png" x="26" y="120" width="180" height="145" on-touch="_GOTO_PAGE:10"/>
     </page>
+    
     <page background="cenario.jpg">
         <agent img="tie.png" x="1" y="340" width="130" height="115" on-touch="_GOTO_PAGE:10"/>
     </page>
+    
     <page background="cenario.jpg">
         <agent img="estrela.jpg" x="135" y="253" width="240" height="232" on-touch="_NEXT_PAGE">
     </page>
+    
     <page background="estrelaDestruida.png">
         <agent text="Para" font-size="22" x="15" y="22">
     </page>
