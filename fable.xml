@@ -56,7 +56,7 @@
     
     <page background="estrelaDestruida.png">
         <agent img="balao.png" x="190" y="35" width="280" height="50"/>
-        <agent text="Go" x="200" y="200"/>
+        <agent text="Go"  font-size="15" color="white" x="200" y="200" on-touch="_NEXT_PAGE"/>
     </page>
 
     <page background="cenario 3.jpg">
