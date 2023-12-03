@@ -35,9 +35,11 @@
         <agent img="tie.png" x="26" y="120" width="180" height="145" on-touch="_GOTO_PAGE:9"/>
     </page>
     <page background="cenario.jpg">
-        <agent img="tie.png" x="26" y="120" width="180" height="145" on/>
+        <agent img="tie.png" x="26" y="120" width="180" height="145" on-touch="_GOTO_PAGE:10"/>
     </page>
     <page background="cenario.jpg">
         <agent img="tie.png" x="1" y="340" width="130" height="115"/>
     </page>
+    <page background="cenario.jpg">
+    </
 </fable>
