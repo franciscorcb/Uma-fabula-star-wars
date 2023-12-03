@@ -65,8 +65,8 @@
         <agent img="balao2.png" x="236" y="120" width="250" height="60"/>
     </page>
     <page background="cenario3.png">
-        <agent img="vader 2.png" x="120" y="78" width="135" height="145"/>
-        <agent img="balao2.png" x="216" y="100" width="250" height="60"/>
+        <agent img="vader 2.png" x="145" y="78" width="135" height="145"/>
+        <agent img="balao2.png" x="256" y="100" width="250" height="60"/>
     </page>
     
 </fable>
