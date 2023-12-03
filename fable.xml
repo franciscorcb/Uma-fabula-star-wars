@@ -60,7 +60,7 @@
     </page>
 
     <page background="cenario3.png">
-        <agent img="darth vader 1.png" x="40" y="20" width="382" height="260"/>
+        <agent img="darth vader 1.png" x="10" y="20" width="382" height="260"/>
     </page>
     
 </fable>
