@@ -60,7 +60,7 @@
     </page>
 
     <page background="cenario3.png">
-        <agent img="vader 1.png" x="140" y="55" width="91" height="145"/>
+        <agent img="vader 1.png" x="145" y="75" width="91" height="145"/>
         <agent text="Go"  font-size="20" color="white" x="460" y="470" on-touch="_NEXT_PAGE"/>
         <agent img="balao2.png" x="245" y="120" width="250" height="60"/>
     </page>
