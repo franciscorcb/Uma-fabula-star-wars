@@ -18,7 +18,7 @@
         <agent img="tie.png" x="26" y="120" width="180" height="145" on-touch="_GOTO_PAGE:6"/>
         <agent img="tie.png" x="380" y="290" width="120" height="105" on-touch="_GOTO_PAGE:7"/>
         <agent text="voltar" font-size="16" color="white" x="15" y="470" on-touch="_PREV_PAGE"/>
-        <agent img="fala.png" x="200" y="10" width="300" height="270"/>
+        <agent img="fala.png" x="100" y="2" width="500" height="200"/>
     </page>
 
     <page background="cenario.jpg">
