@@ -41,6 +41,6 @@
         <agent img="tie.png" x="1" y="340" width="130" height="115" on-touch="_GOTO_PAGE:10"/>
     </page>
     <page background="cenario.jpg">
-        <agent img="estrela.jpg" x="1" y="200" width="329" height="321">
+        <agent img="estrela.jpg" x="100" y="300" width="229" height="221">
     </page>
 </fable>
