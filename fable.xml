@@ -56,5 +56,7 @@
     <page background="cenario3.png">
         <agent img="vader 2.png" x="145" y="78" width="135" height="145"/>
         <agent img="balao2.png" x="256" y="90" width="250" height="60"/>
+        <agent text="Go" font-size="20" color="white" x="460" y="470" on-touch="_NEXT_PAGE"/>
     </page>
+    <page background="fim.jpg"/>
 </fable>
