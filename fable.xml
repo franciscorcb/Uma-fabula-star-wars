@@ -16,8 +16,8 @@
         <agent img="tie.png" x="26" y="120" width="180" height="145" on-touch="_GOTO_PAGE:6"/>
         <agent img="tie.png" x="380" y="290" width="120" height="105" on-touch="_GOTO_PAGE:7"/>
         <agent text="back" font-size="16" color="white" x="15" y="470" on-touch="_PREV_PAGE"/>
-        <agent img="balao.png" x="190" y="35" width="280" height="50"/>
-        <agent text="Clique nas Tie Fighters para destruí-las" font-size="16" color="black" x="220" y="65" whidth="20" height="4"/>
+        <agent img="balao.png" x="190" y="33" width="280" height="60"/>
+        <agent text="Clique nas Tie Fighters para destruí-las" font-size="16" color="black" x="220" y="67" whidth="20" height="12"/>
     </page>
     <page background="cenario.jpg">
         <agent img="tie.png" x="26" y="120" width="180" height="145" on-touch="_GOTO_PAGE:5"/>
