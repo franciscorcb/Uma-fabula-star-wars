@@ -4,9 +4,11 @@
         <agent text="Uma fábula star wars" font-size="15" color="white" x="170" y="110" whidth="40" height="4"/>
         <agent text="Criado por Francisco" font-size="14" color="White" x="178" y="40"/>
     </page>
+    
     <page background="fundo.png">
-        <agent img="fundo.png" x="230" y="50" width= "130" height="100"/>
+        <agent img="fundo.png" x="0" y="50" width= "130" height="100"/>
     </page> 
+    
     <page background="cenario.jpg">
         <agent img="tie.png" x="1" y="340" width="130" height="115" on-touch="_GOTO_PAGE:4"/>
         <agent img="tie.png" x="26" y="120" width="180" height="145" on-touch="_GOTO_PAGE:6"/>
