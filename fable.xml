@@ -42,7 +42,7 @@
     </page>
     <page background="cenario.jpg">
         <agent img="estrela.jpg" x="135" y="252" width="240" height="235" on-touch="_NEXT_PAGE"/>
-        <agent img="balao.png" x="190" y="65" width="380" height="40"/>
+        <agent img="balao.png" x="150" y="65" width="340" height="40"/>
         <agent text="Boa! agora destrua a estrela da morte." font-size="15" x="100" y="35"/>
     </page>
     <page background="estrelaDestruida.png">
