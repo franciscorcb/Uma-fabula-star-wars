@@ -50,7 +50,7 @@
     </page>
     
     <page background="cenario.jpg">
-        <agent img="estrela.jpg" x="135" y="253" width="240" height="232" on-touch="_NEXT_PAGE">
+        <agent img="estrela.jpg" x="135" y="253" width="240" height="232"/>
     </page>
     <page background="estrelaDestruida.png">
         <agent img="balao.png" x="190" y="35" width="280" height="50"/>
