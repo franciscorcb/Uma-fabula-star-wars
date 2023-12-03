@@ -6,7 +6,7 @@
     </page>
     
     <page background="fundo.png">
-        <agent img="fundo.png" x="0" y="50" width= "130" height="100"/>
+        <agent img="cenario2.png" x="20" y="50" width= "130" height="100"/>
     </page> 
     
     <page background="cenario.jpg">
