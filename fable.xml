@@ -43,5 +43,6 @@
     <page background="cenario.jpg">
         <agent img="estrela.jpg" x="135" y="253" width="240" height="232" on-touch="_NEXT_PAGE">
     </page>
+    <page background=
     
 </fable>
