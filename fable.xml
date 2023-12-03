@@ -5,7 +5,7 @@
         <agent text="Criado por Francisco" font-size="14" color="White" x="178" y="40"/>
     </page>
     <page background="fundo.png">
-        <agent img="cenario2.png"  x="400" y="340" width="130" height="115"/>
+        <agent img="cenario2.png"  x="350" y="80" width="170" height="145"/>
     </page>
     
     <page background="cenario.jpg">
