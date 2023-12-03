@@ -55,12 +55,12 @@
     </page>
     
     <page background="estrelaDestruida.png">
-        <agent img="balao.png" x="190" y="35" width="280" height="50"/>
+        <agent img="balao.png" x="190" y="3" width="280" height="50"/>
         <agent text="Go"  font-size="15" color="white" x="200" y="200" on-touch="_NEXT_PAGE"/>
     </page>
 
     <page background="cenario 3.jpg">
-        <agent img="darth vader 1.png" x="190" y="190" width="312" height="200"/>
+        <agent img="darth vader 1.png" x="190" y="90" width="412" height="300"/>
     </page>
     
 </fable>
