@@ -44,7 +44,7 @@
         <agent img="estrela.jpg" x="135" y="253" width="240" height="232" on-touch="_NEXT_PAGE">
     </page>
     <page background="estrelaDestruida.png">
-        <agent
+        <agent text="Para" font-size="22" x=""
     </page>
     
 </fable>
