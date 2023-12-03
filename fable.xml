@@ -6,7 +6,7 @@
     </page>
     <page background="fundo.png">
         <agent img="cenario2.png"  x="300" y="80" width="170" height="145"/>
-        <agent text=">" font-size="40" color="white" x="250" y="100" on-touch="_NEXT_PAGE"/>
+        <agent text="go" font-size="20" color="white" x="440" y="100" on-touch="_NEXT_PAGE"/>
     </page>
     
     <page background="cenario.jpg">
