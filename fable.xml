@@ -60,7 +60,7 @@
         <agent img="vader 2.png" x="145" y="78" width="135" height="145"/>
         <agent img="balao2.png" x="256" y="90" width="200" height="60"/>
         <agent text="Go" font-size="20" color="white" x="460" y="470" on-touch="_NEXT_PAGE"/>
-        <agent text="Tava quase pronta..." font-size="15" x="242" y="130"/>
+        <agent text="Pow,tava quase pronta..." font-size="15" x="252" y="100"/>
     </page>
     <page background="fim.jpg">
         <agent text="Fim" font-size="20" color="white" x="230" y="410"/>
