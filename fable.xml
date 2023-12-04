@@ -1,5 +1,5 @@
 <fable>
-    <page background="start.jpg">
+    <page background="start.jpg" soundtrack="">
         <agent text="START" font-size="32" color="white" x="205" y="140" whidth="40" height="40" on-touch="_NEXT_PAGE"/>
         <agent text="Uma fábula star wars" font-size="15" color="white" x="170" y="110" whidth="40" height="4"/>
         <agent text="Criado por Francisco" font-size="14" color="White" x="178" y="40"/>
