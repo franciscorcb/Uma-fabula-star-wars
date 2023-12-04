@@ -64,6 +64,6 @@
     </page>
     <page background="fim.jpg">
         <agent text="Fim" font-size="20" color="white" x="210" y="410"/>
-        <agent text="Que a força esteja com você!" font-size="20" color="white" x="210" y="310"/>
+        <agent text="Que a força esteja com você!" font-size="20" color="white" x="190" y="310"/>
     </page>
 </fable>
