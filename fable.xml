@@ -46,7 +46,7 @@
         <agent text="Boa! agora destrua a estrela da morte." font-size="15" x="150" y="55"/>
     </page>
     <page background="estrelaDestruida.png">
-        <agent img="balao.png" x="180" y="34" width="380" height="80"/>
+        <agent img="balao.png" x="140" y="34" width="380" height="80"/>
         <agent text="Esse é um pequeno passo para um humano, mais um grande passo para a resistência!" font-size="15" x="150" y="55"/>
         <agent text="Go" font-size="20" color="white" x="440" y="440" on-touch="_NEXT_PAGE"/>
     </page>
