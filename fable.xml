@@ -60,10 +60,10 @@
         <agent img="vader 2.png" x="145" y="78" width="135" height="145"/>
         <agent img="balao2.png" x="256" y="90" width="200" height="60"/>
         <agent text="Go" font-size="20" color="white" x="460" y="470" on-touch="_NEXT_PAGE"/>
-        <agent text="Pow,tava quase pronta..." font-size="15" x="261" y="100"/>
+        <agent text="Pow,tava quase pronta..." font-size="15" x="262" y="100"/>
     </page>
     <page background="fim.jpg">
         <agent text="Fim" font-size="20" color="white" x="210" y="410"/>
-        <agent text="Que a força esteja com você!" font-size="20" color="white" x="190" y="310"/>
+        <agent text="Que a força esteja com você!" font-size="20" color="white" x="170" y="310"/>
     </page>
 </fable>
